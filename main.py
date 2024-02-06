@@ -59,7 +59,7 @@ def game():
   
   
   
-  print(NUMBER_SELECTION)
+  #print(NUMBER_SELECTION)
   
   difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ").lower()      
   
